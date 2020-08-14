@@ -18,11 +18,11 @@ export default class Login extends Component {
                     <TextInput placeholder="Ulangi Password" style={{ height: 45,width:'100%',paddingHorizontal: 15, borderBottomWidth:1,borderColor:'#003366',color:'#fff' }} secureTextEntry={true} />
                 </View>
                 <TouchableOpacity style={[{backgroundColor: '#003366'},styles.button]}  onPress={() => this.props.navigation.push('Home')}>
-                    <Text style={{color:'white'}}>Daftar</Text>
+                    <Text style={{color:'white'}}>SignUp</Text>
                 </TouchableOpacity>
-                <Text style={{fontSize: 24, color: '#fff', marginVertical:16}}>atau</Text>
+                <Text style={{fontSize: 24, color: '#fff', marginVertical:16}}>Or</Text>
                 <TouchableOpacity style={[{backgroundColor: '#fff'},styles.button]} onPress={() => this.props.navigation.push('Login')}>
-                    <Text style={{color:'#f00'}}>Masuk ?</Text>
+                    <Text style={{color:'#f00'}}>SignIn ?</Text>
                 </TouchableOpacity>
        
             </ScrollView>

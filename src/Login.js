@@ -45,11 +45,11 @@ export default class Login extends Component {
                 <Text style={this.state.isUserError ? {color:'red'} : {height:0}}>Incorrect Username</Text>
                 <Text style={this.state.isPassError ? {color:'red'} : {height:0}}>Incorrect Password</Text>
                 <TouchableOpacity style={[{marginTop: 16,backgroundColor: '#fff'},styles.button]} onPress={() => this.Login()}>
-                    <Text style={{color:'#f00'}}>Masuk</Text>
+                    <Text style={{color:'#f00'}}>SignIn</Text>
                 </TouchableOpacity>
-                <Text style={{fontSize: 24, color: '#fff', marginVertical:16}}>atau</Text>
+                <Text style={{fontSize: 24, color: '#fff', marginVertical:16}}>Or</Text>
                 <TouchableOpacity style={[{backgroundColor: '#003366'},styles.button]}  onPress={() => this.props.navigation.push('Register')}>
-                    <Text style={{color:'white'}}>Daftar ?</Text>
+                    <Text style={{color:'white'}}>SignUp ?</Text>
                 </TouchableOpacity>
             </ScrollView>
             
