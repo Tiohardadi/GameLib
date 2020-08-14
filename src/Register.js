@@ -15,7 +15,7 @@ export default class Login extends Component {
                     <TextInput placeholder="Password" style={{ height: 45,width:'100%',paddingHorizontal: 15, borderBottomWidth:1,borderColor:'#003366',color:'#fff' }} secureTextEntry={true} />
                 </View>
                 <View style={{marginTop: 15, marginBottom:50,width:'85%'}}>
-                    <TextInput placeholder="Ulangi Password" style={{ height: 45,width:'100%',paddingHorizontal: 15, borderBottomWidth:1,borderColor:'#003366',color:'#fff' }} secureTextEntry={true} />
+                    <TextInput placeholder="Confirm Password" style={{ height: 45,width:'100%',paddingHorizontal: 15, borderBottomWidth:1,borderColor:'#003366',color:'#fff' }} secureTextEntry={true} />
                 </View>
                 <TouchableOpacity style={[{backgroundColor: '#003366'},styles.button]}  onPress={() => this.props.navigation.push('Home')}>
                     <Text style={{color:'white'}}>SignUp</Text>
