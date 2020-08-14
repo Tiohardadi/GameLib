@@ -28,8 +28,19 @@ saya menggunakan public api dari https://www.giantbomb.com/api/
 - https://reactnative.dev/
 - dll
 
+## Tampilan Aplikasi
+
+[![](images/Home.jpg)](http://www.youtube.com/watch?v=NuEaTFP1Qbs "")
+
+![](images/Login.jpg)
+![](images/Register.jpg)
+![](images/Home.jpg)
+![](images/DetailGame.jpg)
+![](images/AboutMe.jpg)
+
+
 
 ## Link file
 
-- Apk : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40tiohardadi/GameLib-571ea35ea543405184b075583d84e61d-signed.apk
+- Apk : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40tiohardadi/GameLib-b7fdc2625598465bbf198b7a648aa107-signed.apk
 - Mock up Figma : https://www.figma.com/file/31qmAEYWfGBx7hRSioC8t6/final-project-sanbercode?node-id=0%3A1
