@@ -30,13 +30,11 @@ saya menggunakan public api dari https://www.giantbomb.com/api/
 
 ## Tampilan Aplikasi
 
-[![](images/Home.jpg)](http://www.youtube.com/watch?v=NuEaTFP1Qbs "")
+Video Demo : http://www.youtube.com/watch?v=NuEaTFP1Qbs
 
-![](images/Login.jpg)
-![](images/Register.jpg)
-![](images/Home.jpg)
-![](images/DetailGame.jpg)
-![](images/AboutMe.jpg)
+![Login](images/Login.jpg)![Register](images/Register.jpg)
+![Home](images/Home.jpg)![DetailGame](images/DetailGame.jpg)
+![AboutMe](images/AboutMe.jpg)
 
 
 
