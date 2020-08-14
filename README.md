@@ -45,5 +45,5 @@ Video Demo : http://www.youtube.com/watch?v=NuEaTFP1Qbs
 
 ## Akun Tester
 
-username : tester
-password : 12345678
+-username : tester
+-password : 12345678
