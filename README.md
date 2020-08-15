@@ -40,7 +40,7 @@ Video Demo : https://drive.google.com/file/d/1dbiUfpAJHSeLv4W3C80OLi4jkz-gXrbX/v
 
 ## Link file
 
-- Apk : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40tiohardadi/GameLib-b7fdc2625598465bbf198b7a648aa107-signed.apk
+- Apk : https://drive.google.com/file/d/1ebyOLAN4gI7cJTTmlB1Z55d0QD_KkF3d/view?usp=drivesdk
 - Mock up Figma : https://www.figma.com/file/31qmAEYWfGBx7hRSioC8t6/final-project-sanbercode?node-id=0%3A1
 
 ## Akun Tester
