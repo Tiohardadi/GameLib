@@ -30,7 +30,7 @@ saya menggunakan public api dari https://www.giantbomb.com/api/
 
 ## Tampilan Aplikasi
 
-Video Demo : http://www.youtube.com/watch?v=NuEaTFP1Qbs
+Video Demo : https://drive.google.com/file/d/1dbiUfpAJHSeLv4W3C80OLi4jkz-gXrbX/view?usp=drivesdk
 
 ![Login](images/Login.jpg)![Register](images/Register.jpg)
 ![Home](images/Home.jpg)![DetailGame](images/DetailGame.jpg)
